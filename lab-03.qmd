@@ -40,7 +40,7 @@ By the end of the lab, you will:
 
 # Setup Packages
 
-\AddToHookNext{env/Highlighting/begin}{\small}
+\AddToHookNext{env/Highlighting/begin}{\small}1
 
 ```{r, eval=T}
 #| label: package manager
@@ -439,7 +439,7 @@ To submit your assignment:
 # Grading
 
 | Component                                                          | Points |
-|:---------------------------------------------------------|:-------------|
+|:------------------------------------------------------|:----------------|
 | Exercise 1                                                         | 5      |
 | Exercise 2                                                         | 5      |
 | Exercise 3                                                         | 80     |
